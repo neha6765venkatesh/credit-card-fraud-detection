@@ -129,6 +129,8 @@ Dataset: Kaggle - Credit Card Fraud Detection
 Built with  using Python, Scikit-learn, and Streamlit
 
 📸 Screenshot
-![Screenshot (60)](https://github.com/user-attachments/assets/e4938dbf-8f90-4224-b63a-6cbac8049547)
+![Fraud Detection Screenshot](![creditImage jpg](https://github.com/user-attachments/assets/87d6acb0-0b09-4f23-9bf0-1cdb935d4c2a))
+
+
 
 
