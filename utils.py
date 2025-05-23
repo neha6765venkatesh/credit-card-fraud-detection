@@ -1,7 +1,7 @@
 import joblib
 import pandas as pd
 
-model = joblib.load('models/xgboost_model.pkl')
+model = joblib.load('xgboost_model.pkl')
 def preprocess_input(category, amt, gender, city_pop):
     gender_encoded = 1 if gender.lower() == "male" else 0
     # Use same encoding for category as during training (simplified for demo)
